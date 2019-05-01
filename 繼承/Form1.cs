@@ -33,7 +33,7 @@ namespace 繼承
             MessageBox.Show("解構子A開始");
         }
     }
-    class B:A
+    class B:A //B繼承A
     {
         public B()
         {
